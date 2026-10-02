@@ -1,9 +1,11 @@
-# Sol Sync sample site
+# Sol Sync style samples
 
-Placeholder pages for Ilona's upcoming energy-work practice. Copy is sample text, not final offers, pricing, or credentials.
+Index links to five treatments of the same flyer facts.
 
-GitHub Pages (project site): after enabling Pages from `main` / root, the site is at
+- candlelit.html — warm spa editorial
+- practice.html — menu-first practice card
+- botanical.html — sage linen / salt-spa
+- night-study.html — dark placeholder for later esoteric study
+- quiet-luxury.html — wide-margin day spa
 
-https://jasoncousineausolutions.github.io/SolSyncSample/
-
-Private Pages requires GitHub Pro. On the free plan, set the repository to Public, then enable Pages.
+Pages URL, once enabled: https://jasoncousineausolutions.github.io/SolSyncSample/
